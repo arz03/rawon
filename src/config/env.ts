@@ -46,6 +46,6 @@ export const presenceData: PresenceData = {
             "CUSTOM"
         >
     })),
-    status: ["online"] as ClientPresenceStatus[],
+    status: ["dnd"] as ClientPresenceStatus[],
     interval: 60000
 };
